@@ -1,2 +1,2 @@
 # Datapreprocessing_using_pandas
-Efficiently prepare your datasets for analysis and modeling with pandas, the powerful Python library for data manipulation. 
+Efficiently prepare your datasets for analysis and modeling with pandas, the powerful Python library for data manipulation. This repository provides a collection of scripts and examples showcasing various techniques for data preprocessing, including cleaning, transformation, and feature engineering, to ensure your data is ready for insightful exploration and accurate machine learning
